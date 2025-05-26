@@ -47,8 +47,6 @@ A Streamlit application that leverages Google’s Gemini AI to forecast food dem
    cd foresight‑foods
    ```
 
-````
-
 2. **Create & activate a virtual environment**
 
    ```bash
