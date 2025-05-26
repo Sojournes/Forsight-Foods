@@ -2,6 +2,8 @@
 
 A Streamlit application that leverages Google’s Gemini AI to forecast food demand, minimize waste, and incorporate a feedback loop for continuous model improvement. Ideal for cafeterias, catering services, and restaurants looking to optimize preparation and reduce costs.
 
+![image](https://github.com/user-attachments/assets/4df4adda-d05f-4cab-a43e-286cb6172054)
+
 ---
 
 ## 🔍 Project Overview
@@ -15,6 +17,9 @@ A Streamlit application that leverages Google’s Gemini AI to forecast food dem
 - **Feedback Loop**  
   Submit predicted vs. actual usage per menu item to retrain or refine prompts over time.
 
+![image](https://github.com/user-attachments/assets/cb7842d7-12b1-48a3-be4d-c05103e24fed)
+
+
 ---
 
 ## 🚀 Features
@@ -27,6 +32,9 @@ A Streamlit application that leverages Google’s Gemini AI to forecast food dem
   Streamlit `st.metric`, `st.bar_chart`, and `st.line_chart` for at‑a‑glance insights.
 - **Dockerized**  
   Includes `Dockerfile` for containerized deployments.
+
+![image](https://github.com/user-attachments/assets/c90ba079-e469-4f6d-b631-8a1edadcf75b)
+
 
 ---
 
